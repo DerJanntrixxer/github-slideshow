@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+//coffin dance//a //:= beste
 Use the left arrow to go back!
